@@ -142,7 +142,7 @@ jobs:
           # CONFIG_PACKAGE_luci-app-accesscontrol is not set
           CONFIG_PACKAGE_luci-app-argon-config=y
           # CONFIG_PACKAGE_luci-app-nlbwmon is not set
-          # CONFIG_PACKAGE_luci-app-accesscontrol is not set
+          # CONFIG_PACKAGE_luci-app-turboacc is not set
           # CONFIG_PACKAGE_luci-app-turboacc_INCLUDE_BBR_CCA is not set
           # CONFIG_PACKAGE_luci-app-turboacc_INCLUDE_OFFLOADING is not set
           # CONFIG_PACKAGE_luci-app-turboacc_INCLUDE_PDNSD is not set
